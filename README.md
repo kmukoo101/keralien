@@ -1,10 +1,32 @@
-# about-me
+# about-me 🪷
 
-I'm a builder at the intersection of cybersecurity, data engineering, and automation. I design tools and systems that simplify risk management, streamline compliance, and make security workflows more effective — especially in environments where speed, clarity, and trust matter.
+<h3 align="center">👽 I build secure tools that automate, visualize, and defend. 🛡️</h3>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kmukoo101/keralien/main/keralien.png" alt="KERAlien Banner" width="500" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-blueviolet" />
+  <img src="https://img.shields.io/badge/Language-Python-yellow" />
+  <img src="https://img.shields.io/badge/Style-BreakThings_Safely-green" />
+</p>
+
+
+
+## My Engineering Principles
+
+- **Simple is secure**: tools should reduce friction and increase clarity.
+- **Composable**: build once, reuse everywhere.
+- **Fail smart**: everything should break safely and log why.
+- **Purpose > Buzzwords**: I don’t chase trends. I solve problems.
+
+Our biggest weakness is what we don't know. I work across cybersecurity, automation, and data to close those gaps by designing tools that make risk visible, compliance clear, and decisions easier to act on. My focus is clarity, precision, and protection in every tool I build.
 
 ---
 
-## Focus Areas
+## My Focus Areas
 
 - **Security Automation**
   - CVE Prioritization • Alerting Systems • Risk Reporting
@@ -17,7 +39,7 @@ I'm a builder at the intersection of cybersecurity, data engineering, and automa
 
 ---
 
-## Development Approach
+## My Development Approach
 
 I aim to create:
 - Tools that are useful and usable
@@ -27,7 +49,7 @@ I aim to create:
 
 ---
 
-## What I’m Currently Exploring 
+## What I’m Currently Exploring ✨
 
 - Risk-first security scoring
 - Human-friendly compliance interfaces
